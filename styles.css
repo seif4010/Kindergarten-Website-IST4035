@@ -1,0 +1,36 @@
+body::before {
+  display: block;
+  content: "";
+  height: 60px;
+}
+
+#map {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+
+@media (min-width: 768px) {
+  .news-input {
+    width: 50%;
+  }
+}
+
+footer {
+  background-color: #aa3939;
+}
+
+.instructors {
+  background-color: #aa3939;
+}
+
+.navbar {
+  background-color: #aa3939;
+}
+
+.section {
+  background-color: #aa3939;
+}
+.boxes {
+  background-color: #aa3939;
+}
